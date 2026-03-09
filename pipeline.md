@@ -41,6 +41,12 @@ Pour chaque pièce **qui compte** dans cette partie :
 2. Choisir une transposition qui sert le genre ET le rôle de cette pièce dans CETTE partie spécifique
 3. **Justifier** : pourquoi cette association ? (propriétés intrinsèques + comportement dans la partie)
 
+### 2c. Fusils et résonances
+Consulter `reference/techniques.md`. Pour chaque élément qui porte du poids narratif (une compétence, un objet, un savoir, un lieu) :
+- Dans quel contexte est-il introduit ?
+- Existe-t-il un **deuxième contexte** où il pourrait résonner de manière inattendue ?
+- Si oui, noter le transfert prévu. L'introduction dans le contexte A doit être naturelle — le transfert vers B se planifie ici mais ne se signale jamais au lecteur.
+
 ### Règles :
 - Les pièces inactives = figurants ou absentes du récit. Ne pas forcer.
 - Les deux camps ne sont pas nécessairement "bien" vs "mal". Choisir la dualité qui sert l'histoire.
@@ -144,6 +150,8 @@ Ne pas seulement chasser le mauvais — identifier ce qui FONCTIONNE pour ne pas
 5. **Détail technique surprenant** — un fait réel qui semble inventé. (Ex : la granulométrie fine du métabisulfite. L'article 726 du code civil.) → Amplifier : intégrer le détail dans le RAISONNEMENT du personnage, pas en note de bas de page.
 
 6. **Inversion d'attente** — le choix narratif va CONTRE ce que le genre promet. (Ex : dans un polar, le moment clé n'est pas un interrogatoire mais un calcul sur un cahier. Le "gun" de l'histoire est un taux de SO2, pas une arme.) → Amplifier : assumer l'inversion, ne pas la compenser par un retour au cliché.
+
+7. **Fusil transféré** — un élément posé dans un contexte A réapparaît dans un contexte B inattendu (voir `reference/techniques.md`). → Vérifier : des éléments déjà posés pourraient-ils résonner dans un deuxième contexte ? Si oui et que ce n'était pas planifié à l'étape 2, l'intégrer maintenant.
 
 ---
 
