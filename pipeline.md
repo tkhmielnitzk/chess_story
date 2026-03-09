@@ -71,9 +71,49 @@ Si une réponse est non → ajuster les assignations (étape 2) ou regrouper/sup
 
 ---
 
-## Étape 4 : Écriture
+## Étape 4 : Densification — Chasse au flou
 
-Sortie : `stories/game_XX/4_story.md`
+Sortie : `stories/game_XX/4_densification.md`
+
+Objectif : relire le synopsis et identifier chaque zone **vague, générique ou trop facile**, puis la rendre concrète et crédible.
+
+### Méthode :
+
+1. **Scanner le synopsis** — repérer chaque passage qui pourrait s'appliquer à n'importe quelle histoire (phrases creuses, raccourcis narratifs, détails manquants, motivations floues, mécanismes non expliqués).
+
+2. **Classer chaque zone floue** dans l'une de ces catégories :
+   - **Décor vague** — un lieu, une institution, une entreprise qui manque de chair (ex : "un cabinet d'avocats" → lequel ? combien de personnes ? quelle réputation ? quel étage ?)
+   - **Mécanisme non expliqué** — un événement narratif qui arrive sans qu'on comprenne le COMMENT technique/concret (ex : "il perd son appartement" → par quelle procédure exactement ? quel délai ? quelles étapes ?)
+   - **Personnage carton** — un personnage dont on ne comprend pas la motivation profonde, ou dont le comportement est trop archétypal (ex : "le PDG arrogant" → pourquoi est-il arrogant ? qu'est-ce qui l'a rendu comme ça ?)
+   - **Raccourci émotionnel** — un moment censé être fort mais qu'on RACONTE au lieu de le MONTRER (ex : "Marc est effondré" → qu'est-ce qu'il fait concrètement à ce moment-là ? il mange quoi ? il dort où ?)
+   - **Fait technique vague** — un élément scientifique, juridique, médical, technique qui sonne bien mais manque de précision (ex : "les données montrent un problème" → quelles données ? quel format ? quel chiffre ?)
+
+3. **Pour chaque zone identifiée, enrichir** en utilisant l'une des deux approches :
+   - **Imagination guidée** — inventer un détail concret, sensoriel, spécifique qui ancre la scène dans le réel (un nom de rue, un bruit, un geste, un chiffre)
+   - **Inspiration factuelle mélangée** — s'inspirer de faits réels (scandales, procès, événements documentés) en les MÉLANGEANT : prendre le mécanisme d'une affaire, le contexte d'une autre, le dénouement d'une troisième. Ne jamais reproduire une affaire à l'identique. Le but est la vraisemblance, pas le documentaire.
+
+### Format du document :
+
+Pour chaque zone floue identifiée :
+```
+### Zone N : [citation du passage vague]
+**Catégorie :** décor vague / mécanisme non expliqué / personnage carton / raccourci émotionnel / fait technique vague
+**Problème :** en quoi c'est trop flou
+**Enrichissement :** le détail concret qui remplace le flou
+**Source d'inspiration :** [si basé sur du réel] quelles affaires/faits mélangés, et comment
+```
+
+### Règles :
+- Ne JAMAIS copier-coller une affaire réelle. Toujours mélanger au moins 2 sources.
+- Privilégier les détails sensoriels et concrets plutôt que les descriptions abstraites.
+- Chaque enrichissement doit passer le test : "est-ce que quelqu'un qui connaît le sujet trouverait ça crédible ?"
+- Mettre à jour le synopsis (étape 3) avec les enrichissements validés avant de passer à l'écriture.
+
+---
+
+## Étape 5 : Écriture
+
+Sortie : `stories/game_XX/5_story.md`
 
 Objectif : écrire l'histoire complète.
 
@@ -86,7 +126,7 @@ Objectif : écrire l'histoire complète.
 
 ---
 
-## Étape 5 : Relecture de cohérence
+## Étape 6 : Relecture de cohérence
 
 Checklist finale :
 - [ ] Un lecteur non-joueur d'échecs comprendrait-il et apprécierait-il cette histoire ?
@@ -95,4 +135,4 @@ Checklist finale :
 - [ ] L'histoire a-t-elle sa propre identité, ou sent-on qu'elle est "générée" ?
 - [ ] Relire la partie d'échecs en parallèle : les grands moments sont-ils tous là ?
 
-Si tout est bon → publication dans `stories/game_XX/4_story.md` (version finale).
+Si tout est bon → publication dans `stories/game_XX/5_story.md` (version finale).
