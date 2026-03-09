@@ -2,7 +2,7 @@
 
 ## Résumé en une phrase
 
-Une jeune gendarme formée en chimie oenologique sacrifie son mandat pour prouver qu'un accident de vendanges était un empoisonnement au dioxyde de soufre — et que la veuve éplorée sentait le métabisulfite.
+Une jeune gendarme formée en chimie oenologique reconstitue un empoisonnement au dioxyde de soufre par déduction chimique pure — et sacrifie son mandat pour forcer une vérité que personne ne veut entendre.
 
 ---
 
@@ -18,61 +18,91 @@ Mais Noor a un master 1 inachevé en chimie oenologique de l'Institut Universita
 
 Elle s'approche de la cuve n°7. Elle sent l'odeur. Le CO2 est inodore. Mais il y a une autre odeur — âcre, piquante, qui brûle le nez. Du soufre. Du SO2. Noor connaît cette odeur : c'est le sulfitage, l'ajout de métabisulfite de potassium pour protéger le moût de l'oxydation. Chaque vigneron le fait. Mais pas à cette concentration. Pas en pleine fermentation. Et certainement pas dans une cuve ouverte où quelqu'un est censé descendre.
 
-Noor demande à Vergnaud l'autorisation de faire un prélèvement dans la cuve. Vergnaud hausse les épaules : "Fais ce que tu veux, c'est un accident." (**Bg4 — le premier indice, le fou se pose**).
+**Première déduction.** Noor note mentalement : si quelqu'un voulait tuer Pierre-André par asphyxie, il suffisait d'augmenter le CO2 — un seau de sucre dans la cuve accélère la fermentation et le dégagement de CO2, et c'est absolument indétectable. Mais le tueur a choisi le SO2. Pourquoi ? Parce que le SO2 tue PLUS VITE que le CO2. Le CO2 prend 2-3 minutes pour asphyxier — assez pour que la victime tente de remonter l'échelle. Le SO2 à haute concentration provoque un spasme laryngé en 15-20 secondes : les voies aériennes se ferment, la victime ne peut plus crier ni bouger. C'est un piège sans échappatoire. Celui qui a fait ça ne voulait prendre AUCUN risque que Pierre-André s'en sorte. Et il savait que tout le monde conclurait "CO2" sans vérifier. (**Bg4 — le premier indice, le fou se pose**)
 
-Noor prélève 250 mL de moût dans un flacon stérile. Elle l'envoie au labo de l'IRTF (Institut de Recherche et de Technologie en Fermentation) à Villefranche, qui fait les analyses de routine pour les vignerons. Elle demande un dosage du SO2 total et du SO2 libre.
+Noor demande à Vergnaud l'autorisation de faire un prélèvement dans la cuve. Vergnaud hausse les épaules : "Fais ce que tu veux, c'est un accident."
+
+Noor prélève 250 mL de moût dans un flacon stérile. Elle l'envoie au labo de l'IFV (Institut Français de la Vigne et du Vin, antenne Beaujolais) à Villefranche, qui fait les analyses de routine pour les vignerons. Elle demande un dosage du SO2 total et du SO2 libre. 35€. Service commercial, pas expertise judiciaire. N'importe quel vigneron aurait pu déposer le même flacon au guichet.
 
 ---
 
 ## Acte II — Le cavalier (coups 11-17)
 
-Les résultats tombent trois jours plus tard. SO2 total : 380 mg/L. SO2 libre : 210 mg/L. Normal en début de macération pour un Morgon : 50-80 mg/L total, 20-30 mg/L libre. La cuve n°7 contenait 5 fois la dose normale de SO2. À cette concentration, le SO2 gazeux dégagé au-dessus du moût est létal en 3-4 minutes — irritation pulmonaire, oedème, spasme laryngé, arrêt respiratoire. Pierre-André n'est pas mort de CO2. Il est mort de SO2. Et personne ne met 380 mg/L de SO2 dans une cuve en fermentation par erreur. C'est comme mettre un litre de sel dans un verre d'eau.
+Les résultats tombent trois jours plus tard. SO2 total : 380 mg/L. SO2 libre : 210 mg/L. Normal en début de macération pour un Morgon : 50-80 mg/L total, 20-30 mg/L libre. La cuve n°7 contenait 5 fois la dose normale de SO2.
 
-Noor apporte les résultats à Vergnaud. Vergnaud regarde les chiffres, fronce les sourcils, et dit : "C'est peut-être une erreur de sulfitage. Morel était vieux, il voyait mal, il a peut-être surdosé." Noor : "Capitaine, 380 milligrammes par litre. C'est pas un surdosage, c'est un empoisonnement." Vergnaud : "Belkadi, on a un domaine qui vaut 3 millions, un fils qui vit à Lyon avec une assurance-vie, et un maître de chai qui s'est engueulé avec le patron la semaine dernière. Si c'est un meurtre, c'est un de ces deux-là. Le SO2, c'est le comment, pas le qui." (**Les Blancs jouent agressivement, les fausses pistes sont lancées — Bf4, Bg5**)
+Noor apporte les résultats à Vergnaud. Vergnaud fronce les sourcils : "C'est peut-être une erreur de sulfitage. Morel était vieux, il voyait mal, il a peut-être surdosé." Noor : "Capitaine, 380 milligrammes par litre. C'est pas un surdosage, c'est un empoisonnement." Vergnaud : "Belkadi, si c'est un meurtre, trouve-moi le qui, pas le comment." (**Les Blancs jouent agressivement — Bf4, Bg5**)
 
-Noor n'est pas d'accord. Le SO2 est la CLÉ — parce que n'importe qui peut vouloir tuer Pierre-André, mais seul quelqu'un qui connaît le chai, le sulfitage, le timing de la fermentation, et les habitudes de Pierre-André (il descend contrôler la cuve n°7 tous les soirs à 22h) peut concevoir CE piège (**Na4! — le cavalier part en mission, Noor suit la piste chimique**).
+Vergnaud lance les investigations classiques. Il interroge Lucas Morel (le fils, assurance-vie de 200 000€ sur son père) et Bastien Roux (le maître de chai, engueulé avec Pierre-André la semaine précédente). Des pistes visibles, logiques — et fausses.
 
-Noor enquête en parallèle de l'enquête officielle. Le capitaine Vergnaud interroge Lucas Morel (le fils) et Bastien Roux (le maître de chai).
+**Noor, elle, ne cherche pas des témoins. Elle calcule.** (**Na4! — le cavalier part en mission**)
 
-**Noor élimine les suspects :**
+Elle s'assoit dans la salle de repos de la brigade avec un cahier, un stylo, et les données du labo. Elle raisonne :
 
-Bastien Roux (**Nxc3, premier suspect éliminé**) : le soir du 13 octobre, Bastien était à la cave coopérative de Villié-Morgon pour un soutirage collectif. 12 vignerons l'ont vu. Il est parti à 23h30. Pierre-André est mort entre 22h et 23h (estimation du légiste). Bastien n'était pas au domaine. Et Bastien ne gère PAS le sulfitage de la cuve n°7 — Pierre-André insistait pour sulfiter lui-même ses cuvées parcellaires. Bastien n'avait accès qu'aux cuves d'assemblage.
+**Déduction 1 — la dose.** 380 mg/L de SO2 dans 50 hectolitres = 5 000 litres. Soit 1 900 grammes de SO2 pur. Le métabisulfite de potassium (K2S2O5) libère environ 57% de son poids en SO2. Donc : 1 900 / 0,57 = 3 333 grammes. Environ 3,3 kg de K2S2O5. Un sac standard fait 25 kg. Le tueur a donc prélevé environ 3,3 kg d'un sac — soit un septième. Il sait calculer une dose de sulfitage. Ce n'est pas un amateur.
 
-Lucas Morel (**Nxe4, deuxième suspect éliminé**) : Lucas était à Lyon le soir du 13. Il a dîné au restaurant avec sa compagne — addition Visa à 21h47 au Café Comptoir Abel, rue de la Martinière. Il a une assurance-vie sur son père (200 000€), mais Noor découvre que c'est Pierre-André lui-même qui avait souscrit le contrat en 2018, pas Lucas. Et Lucas ne connaît rien au vin — il travaille dans l'IT chez Sopra Steria. Il ne saurait pas doser du métabisulfite de potassium.
+**Déduction 2 — la dissolution.** Pour que le piège fonctionne, il faut que le SO2 soit dissous ET dégagé au-dessus du moût au moment où Pierre-André se penche sur la cuve. Le métabisulfite existe en deux granulométries : standard (cristaux 1-2mm, dissolution en 40-45 minutes) et fine (poudre <0,5mm, dissolution en 8-10 minutes). Si le tueur a utilisé la granulométrie standard, il a dû verser le produit 45 minutes avant l'arrivée de Pierre-André. C'est risqué — quelqu'un d'autre aurait pu passer au chai pendant ce temps. Mais si c'est de la fine, il a pu verser 10 minutes avant. 10 minutes, c'est un créneau précis. Le tueur connaît la granulométrie. (**Nxc3 — première prise du cavalier**)
 
-Pendant ce temps, Vergnaud se concentre sur Lucas (l'assurance-vie) et sur un troisième suspect : Frédéric Loiseau, négociant en vins, intermédiaire pour un groupe d'investisseurs qui voulait racheter le domaine. Vergnaud passe trois semaines là-dessus (**Bxe7, Bc5 — les fous blancs s'agitent, les fausses pistes consomment du temps**). C'est une impasse.
+**Déduction 3 — l'horaire.** Pierre-André descendait au chai tous les soirs à 22h pour contrôler les températures de fermentation. Vergnaud le sait — c'est dans le rapport. Mais Noor pousse plus loin : les voisins le savent-ils ? Bastien le sait-il ? Oui, tout le monde le sait. Mais la FENÊTRE de 10 minutes (si granulométrie fine) ou 45 minutes (si standard) exige une certitude absolue sur l'heure d'arrivée. Quelqu'un qui vit à 30 minutes de route (Lucas, à Lyon) ne peut pas garantir ce timing. Quelqu'un qui travaille au chai (Bastien) le pourrait — mais Bastien ferme le chai à 18h et rentre chez lui à Saint-Jean-d'Ardières. Le tueur était SUR PLACE le soir du 13 octobre, à quelques minutes du chai. (**Nxe4 — deuxième prise du cavalier**)
 
-**Noor, elle, suit le soufre.**
+**Déduction 4 — la logique de l'accident.** C'est la plus importante. Si quelqu'un tue Pierre-André et que ça ressemble à un accident, QUI en bénéficie ? Un accident, c'est une succession. Un meurtre, c'est une enquête. Bastien n'a rien à gagner d'un "accident" — il perd son patron et potentiellement son emploi. Lucas a l'assurance-vie, mais Noor vérifie : le contrat a été souscrit par Pierre-André lui-même en 2018, et il est payable quelle que soit la cause du décès (accident ou non). L'assurance-vie ne donne pas de mobile spécifique pour un MAQUILLAGE en accident. Mais quelqu'un qui HÉRITE du domaine... quelqu'un dont l'héritage serait ANNULÉ en cas de meurtre prouvé (l'article 726 du code civil : l'indignité successorale prive le meurtrier de la succession)... cette personne a BESOIN que la mort soit un accident.
 
-Elle contacte les trois fournisseurs de produits oenologiques du secteur. Chez le deuxième — Oenolia, à Mâcon — elle trouve un bon de commande. 25 kg de métabisulfite de potassium, payé en espèces, le 9 octobre. Cinq jours avant la mort de Pierre-André. La signature sur le bon : illisible. Mais le vendeur se souvient : "Une femme, la cinquantaine, elle connaissait le produit, elle a demandé la granulométrie fine." (**Nf5 — le cavalier atteint un avant-poste décisif**)
+Noor ouvre le code civil sur son téléphone. Article 726 : "Sont indignes de succéder [...] celui qui est condamné comme auteur ou complice d'un homicide volontaire sur la personne du défunt." Si Hélène Morel a tué son mari et que c'est prouvé, elle perd TOUT — le domaine, la maison, la succession. Si c'est un accident, elle hérite de tout.
 
-Noor sait maintenant que le sulfitage a été préparé et que l'acheteur est une femme qui s'y connaît en oenologie. Il n'y a qu'une personne au domaine qui correspond : **Hélène Morel**, 59 ans, née au domaine, fille du précédent propriétaire. Elle a grandi dans le chai. Elle connaît le sulfitage comme elle connaît sa propre cuisine.
+Le maquillage en accident n'est pas un détail tactique. C'est une SIGNATURE. Le tueur est un héritier. (**Nf5 — le cavalier atteint un avant-poste décisif**)
 
-Et le mobile ? Noor découvre, via le comptable du domaine (Me Favre, notaire à Beaujeu), que Pierre-André avait contracté un prêt de 1,2 million d'euros adossé au domaine — un prêt dont Hélène n'était pas co-signataire, pris pour couvrir des pertes sur une spéculation en négoce de vins en vrac. Pierre-André était en négociation avancée pour vendre le domaine au groupe Loiseau & Associés afin de rembourser le prêt. Si la vente aboutissait, Hélène perdait tout — le domaine est dans le nom de Pierre-André, et la vente annulerait ses droits successoraux. Mais si Pierre-André meurt AVANT la vente, Hélène hérite du domaine (succession en ligne directe, régime de communauté réduite aux acquêts — le domaine est un acquêt).
+**Déduction 5 — le domaine.** Noor retourne au domaine, cette fois pour OBSERVER, pas pour interroger. Elle note : le chai en pierre dorée date du XIXe, l'extension en parpaings des années 80 n'a pas été retouchée. L'égrappoir est un modèle Bucher-Vaslin de 1996. Le pressoir est pneumatique mais d'occasion — Noor reconnaît le modèle, c'est un Willmes de fin de série. Le tracteur dans la cour est un Massey Ferguson 135 sans cabine, repeint trois fois. Rien n'a été investi depuis 20 ans. Pourtant, le domaine produit 45 000 bouteilles à 14€ — soit 630 000€ de CA. Où passe l'argent ?
 
-Noor a le mobile, le moyen, et un indice sur l'acheteur du métabisulfite.
+Noor consulte le cadastre en ligne (service public, accès libre) et le fichier des hypothèques au service de publicité foncière de Villefranche. Elle trouve : une hypothèque conventionnelle de 1,2 million d'euros, inscrite en 2020, au profit du Crédit Agricole Loire-Beaujolais. Le domaine est hypothéqué. Pierre-André était endetté jusqu'au cou. Et Hélène n'est pas co-signataire du prêt.
+
+---
+
+**Noor a maintenant un tableau complet, construit sans aucun témoignage :**
+
+| Élément | Déduit de... |
+|---------|-------------|
+| Ce n'est pas un accident | L'odeur de SO2 (chimie) |
+| Le tueur sait calculer un sulfitage | La dose (3,3 kg dans 50 hL) |
+| Le tueur connaît les granulométries | Le choix de SO2 vs CO2 et la fenêtre temporelle |
+| Le tueur était sur place | La fenêtre de 10 min (granulométrie fine) |
+| Le tueur est un héritier | Le maquillage en accident (art. 726 code civil) |
+| Le domaine est hypothéqué | Le cadastre + publicité foncière |
+| Le tueur a un mobile patrimonial | L'hypothèque + la succession |
+
+Tout pointe vers Hélène Morel. 59 ans, née au domaine, fille du précédent propriétaire. Elle a grandi dans le chai. Elle connaît le sulfitage. Elle était sur place. Et si Pierre-André vendait le domaine pour rembourser un prêt qu'elle n'a pas signé, elle perdait 35 ans de travail et la terre de son père.
 
 ---
 
 ## Acte III — La Dame sacrifiée (coups 17-23)
 
-Noor fait quelque chose qu'elle n'a pas le droit de faire. Au lieu de présenter ses découvertes à Vergnaud et d'attendre une commission rogatoire, elle va au domaine. Seule. Elle trouve Hélène dans le chai, en train de soutirer la cuve n°3. Noor lui dit, calmement : "Madame Morel, le 9 octobre, quelqu'un a acheté 25 kilos de métabisulfite chez Oenolia à Mâcon. Payé en espèces. La vendeuse décrit une femme qui connaît le produit. La cuve dans laquelle votre mari est mort contenait 380 milligrammes par litre de SO2. Vous savez aussi bien que moi que c'est cinq fois la dose. Est-ce que vous voulez me parler maintenant, ou est-ce qu'on attend que le labo confirme les empreintes sur le sac ?" (**Be6!! — le coup du siècle, Noor offre son mandat**)
+Noor présente ses déductions à Vergnaud. Quatre pages, double interligne, police Times 12. Pas un seul témoignage — que de la chimie, des registres publics, et du raisonnement.
 
-Hélène ne dit rien. Elle pose son tuyau de soutirage, retire ses gants, et dit : "Je veux un avocat."
+Vergnaud lit les deux premières pages et pose le rapport : "Belkadi, c'est un exercice de logique. T'as pas UNE preuve matérielle. Le procureur va te demander un bon de commande, une empreinte, un relevé téléphonique. Pas un calcul de granulométrie."
 
-Noor rentre à la brigade. Vergnaud l'attend. Quelqu'un du domaine a appelé — le voisin, qui a vu une gendarme repartir seule du chai. Vergnaud est furieux. Noor a interrogé un témoin sans commission rogatoire, sans avocat, sans enregistrement. Tout ce qu'Hélène a dit (ou n'a pas dit) est potentiellement irrecevable. Vergnaud dessaisit Noor de l'affaire (**Bxb6 — la dame est capturée, Noor perd son mandat**).
+Noor sait que Vergnaud a raison sur le plan juridique. Elle sait aussi que chaque jour qui passe est un jour de ménage pour Hélène — le sac de métabisulfite, s'il existe encore, peut disparaître n'importe quand. Elle monte dans sa Peugeot 308 de service (gris anthracite, 187 000 km). 22 minutes sur la D68 jusqu'à Villié-Morgon. Pendant ces 22 minutes, elle sait qu'elle fait une erreur de procédure. Elle sait aussi que si elle ne le fait pas, l'affaire sera classée dans 15 jours.
 
-Mais le sacrifice a produit son effet. Hélène a appelé un avocat. Le fait qu'elle ait immédiatement demandé un avocat — au lieu de dire "mais de quoi vous parlez ?" — n'a pas échappé à Vergnaud. Et surtout, la confrontation a déclenché une chaîne de réactions :
+Elle ne va pas au domaine pour obtenir des aveux. Elle y va pour tester ses déductions — voir si la réaction d'Hélène confirme ou infirme son raisonnement.
+
+Noor trouve Hélène dans le chai, en train de soutirer la cuve n°3. Noor ne lui montre rien — pas de bon de commande, pas de résultat de labo. Elle ne lui dit que ceci : "Madame Morel, votre mari n'est pas mort de CO2. Il est mort de SO2. Quelqu'un a versé 3,3 kilos de métabisulfite granulométrie fine dans la cuve n°7 environ 10 minutes avant qu'il descende. Quelqu'un qui savait qu'il descendait à 22h. Quelqu'un qui connaît le sulfitage." (**Be6!! — le coup du siècle, Noor offre son mandat**)
+
+Elle observe Hélène. Hélène ne dit pas "Mais de quoi parlez-vous ?" Elle ne dit pas "C'est impossible." Elle ne dit pas "Pierre-André a dû se tromper de dosage."
+
+Hélène pose son tuyau de soutirage, retire ses gants, et dit : "Je veux un avocat."
+
+Ce n'est pas un aveu. Demander un avocat est un droit. Mais Noor a sa réponse. Quelqu'un d'innocent aurait dit : "Vous êtes sûre ? Mais comment c'est possible ?" Hélène n'a montré aucune surprise. Pas sur le SO2, pas sur les 3,3 kilos, pas sur la granulométrie fine. Elle SAVAIT déjà tout ce que Noor venait de lui dire. Parce que c'est elle qui l'a fait. (**Déduction comportementale — le silence d'Hélène confirme la chaîne de raisonnement**)
+
+Noor rentre à la brigade. Vergnaud l'attend. Quelqu'un du domaine a appelé — un voisin a vu une gendarme repartir seule du chai. Vergnaud est furieux. Noor a interrogé un témoin sans commission rogatoire, sans avocat, sans enregistrement. Vergnaud dessaisit Noor de l'affaire. (**Bxb6 — la dame est capturée, Noor perd son mandat**)
+
+Mais le sacrifice a produit son effet. Pas parce qu'Hélène a parlé — parce qu'Hélène a RÉAGI.
 
 **La danse du cavalier (cascade de révélations) :**
 
-**Premier rebond (**Ne2+**) :** Hélène, paniquée, appelle le fournisseur Oenolia pour savoir si les gendarmes sont venus. Le fournisseur, qui ne savait pas que c'était lié à une enquête, appelle maintenant la gendarmerie de Mâcon pour signaler l'appel. L'appel d'Hélène est horodaté.
+**Premier rebond (Ne2+) :** Hélène, paniquée, appelle le fournisseur Oenolia à Mâcon le soir même. Elle veut savoir si des gendarmes sont venus poser des questions. Le fournisseur, qui ne savait pas que l'achat du 9 octobre était lié à une affaire, appelle la gendarmerie de Mâcon pour signaler l'appel. L'appel d'Hélène est horodaté. Noor ne savait même pas qu'Oenolia existait comme fournisseur. C'est la panique d'Hélène qui révèle SON PROPRE fournisseur.
 
-**Deuxième rebond (**Nxd4+**) :** Le labo de l'IRTF, qui avait analysé le SO2 sur demande de Noor, reçoit une demande de contre-analyse de la part de l'avocat d'Hélène. L'avocat argue que l'analyse n'est pas fiable. Mais en demandant la contre-analyse, il confirme officiellement que le taux de SO2 est un enjeu — ce que Vergnaud considérait encore comme secondaire. Vergnaud est forcé de prendre le SO2 au sérieux.
+**Deuxième rebond (Nxd4+) :** Le fournisseur Oenolia retrouve le bon de commande du 9 octobre — 25 kg de métabisulfite de potassium, payé en espèces. La signature est illisible. Mais le vendeur se souvient d'un détail : l'acheteur "a demandé la granulométrie fine." Noor avait DÉDUIT la granulométrie fine depuis son cahier à la brigade. Le fournisseur vient de le confirmer par un fait indépendant. La théorie et la réalité convergent.
 
-**Troisième rebond (**Ne2+**) :** Le notaire Me Favre, contacté par Noor avant sa suspension, rappelle la brigade. Il a retrouvé l'acte de prêt de 1,2 million. Il confirme : Hélène n'était pas signataire, mais elle a consulté le dossier — Me Favre le sait parce qu'elle a demandé une copie de l'acte en août. Hélène savait TOUT du prêt et de la vente imminente.
+**Troisième rebond (Ne2+) :** Noor, bien que dessaisie, ne dort plus. Elle repense à l'alibi d'Hélène. Mme Cottard, la voisine, a déclaré qu'Hélène était chez elle le soir du 13 octobre "de 20h à 23h." Elles auraient "regardé le journal ensemble." Noor ouvre le replay du JT de France 2 du 13 octobre sur france.tv. Elle le regarde en entier. Puis elle vérifie les déclarations de Cottard dans le PV d'audition : Cottard a mentionné "un reportage sur les incendies en Grèce." Le 13 octobre, le JT de France 2 n'a PAS diffusé de sujet sur les incendies en Grèce. Noor vérifie les jours précédents. Le sujet Grèce, c'était le 11 octobre. Cottard confond les soirs — ou ment. Noor transmet l'information à la Section de Recherches via l'adjudant-chef Moreau, croisé au distributeur de café de la compagnie de Villefranche. Moreau fait reconvoquer Cottard. Confrontée à l'incohérence du JT, Cottard rougit, bafouille, et finit par admettre : "Hélène est partie vers 21h30, pas 23h." Trou d'une heure et demie dans l'alibi. Pile dans la fenêtre de décès.
 
-**Quatrième rebond (**Nc3+**) :** Le témoignage de la voisine, Mme Cottard, évolue. Initialement, Mme Cottard avait dit qu'Hélène était chez elle de 20h à 23h le soir du 13 octobre. Mais confrontée aux incohérences (le journal de 20h que Mme Cottard dit avoir regardé avec Hélène n'avait pas les sujets qu'elle décrit), Mme Cottard admet : Hélène est partie vers 21h30, pas 23h. Ça laisse un trou d'une heure et demie. Pile dans la fenêtre de décès.
+**Quatrième rebond (Nc3+) :** Noor pousse encore plus loin. L'alibi est fissuré, mais elle veut comprendre POURQUOI Hélène est allée chez Cottard ce soir-là. Réponse dans les relevés téléphoniques (obtenus par la SR sur commission rogatoire) : à 21h35, un appel de 47 secondes depuis le portable de Cottard vers le fixe du domaine Morel. Hélène a appelé chez elle depuis chez la voisine. Vergnaud lit ça sans y voir d'importance. Noor, si : "Pourquoi appeler chez soi à 21h35 depuis la maison d'à côté, au lieu de rentrer ? Elle est à 50 mètres. Sauf si elle avait besoin de vérifier quelque chose SANS être vue au domaine. Elle vérifiait que Pierre-André était encore là — qu'il n'était pas déjà descendu au chai. Parce qu'elle devait passer au chai AVANT lui." L'appel de 21h35 n'est pas anodin. C'est le signal de départ. Hélène a vérifié que Pierre-André était à l'étage, elle a quitté Cottard à 21h30, elle est passée au chai à 21h45-21h50 pour verser le métabisulfite, et elle est rentrée se coucher. Pierre-André est descendu à 22h05. Dix minutes après le versement. Granulométrie fine.
 
 (**axb6 — la thèse de l'accident s'effondre officiellement**) Le procureur de Villefranche requalifie l'affaire en homicide. L'enquête est confiée à la Section de Recherches de Lyon. Noor n'est pas réintégrée, mais ses analyses sont versées au dossier.
 
@@ -80,21 +110,25 @@ Mais le sacrifice a produit son effet. Hélène a appelé un avocat. Le fait qu'
 
 ## Acte IV — La traque (coups 24-41)
 
-Hélène change de version. Elle dit qu'elle est rentrée à 21h30 mais qu'elle est allée se coucher directement. Puis elle dit qu'elle a fait une promenade dans les vignes. Puis elle dit qu'elle a vu Pierre-André descendre au chai mais qu'elle pensait que c'était normal. Chaque version est un déplacement du roi — **Kg1, Kf1, Kg1, Kh2, Kg1, Kf1, Ke1, Kd1, Kc1** — un pas vers le coin, un pas vers la sortie, un pas en arrière.
+Hélène change de version. Elle dit qu'elle est rentrée à 21h30 mais qu'elle est allée se coucher directement. Puis elle dit qu'elle a fait une promenade dans les vignes. Puis elle dit qu'elle a vu Pierre-André descendre au chai mais qu'elle pensait que c'est normal. Chaque version est un déplacement du roi — **Kg1, Kf1, Kg1, Kh2, Kg1, Kf1, Ke1, Kd1, Kc1** — un pas vers le coin, un pas vers la sortie, un pas en arrière.
 
-Les preuves convergent :
+Les preuves matérielles rattrapent les déductions de Noor :
 
-- Les relevés téléphoniques d'Hélène montrent un appel au domaine depuis le portable de Mme Cottard à 21h35 — elle a appelé chez elle pour vérifier que Pierre-André descendait bien au chai à 22h comme chaque soir. (**Le cavalier coupe une diagonale de fuite**)
+- Le sac de 25 kg de métabisulfite d'Oenolia est retrouvé dans la benne de tri de la déchetterie de Villié-Morgon, déposé le 15 octobre (le lendemain de la découverte du corps). Le sac porte une empreinte partielle : pouce droit. (**Le cavalier coupe une diagonale de fuite**)
 
-- Le sac de 25 kg de métabisulfite d'Oenolia est retrouvé — pas au domaine, mais dans la benne de tri de la déchetterie de Villié-Morgon, déposé le 15 octobre (le lendemain de la découverte du corps). Le sac porte une empreinte partielle : pouce droit. (**Le fou coupe une autre diagonale**)
+- L'IRCGN (Institut de Recherche Criminelle de la Gendarmerie Nationale, Pontoise) analyse un prélèvement scellé du moût de la cuve n°7 par chromatographie ionique — méthode accréditée COFRAC, recevable au tribunal. SO2 total : 374 mg/L. Cohérent avec l'analyse de l'IFV. Cette fois, c'est une preuve légale. (**Le fou confirme la diagonale**)
 
-- Noor, qui n'est plus sur l'affaire mais qui n'a pas arrêté de réfléchir, transmet une note à la Section de Recherches : "Vérifiez la granulométrie du métabisulfite dans la cuve. La granulométrie fine se dissout en 10 minutes. La granulométrie standard en 45. Si c'est de la fine, le sulfitage a été fait moins de 10 minutes avant que Pierre-André descende. Quelqu'un qui savait EXACTEMENT quand il allait descendre." (**Le cavalier donne un dernier échec**)
+- Noor, qui n'est plus sur l'affaire mais qui n'a pas arrêté de réfléchir, transmet une dernière note à Moreau — toujours au distributeur de café, toujours en 45 secondes : "Adjudant-chef, faites analyser la granulométrie du métabisulfite résiduel dans la cuve. Si c'est de la fine, le sulfitage a été fait moins de 10 minutes avant que Pierre-André descende. Et l'acheteur chez Oenolia a demandé de la fine. Si la granulométrie de la cuve CORRESPOND à celle du bon de commande, vous avez le lien matériel entre l'achat et le crime." Moreau hoche la tête. Il fait vérifier. Granulométrie fine dans la cuve. Fine sur le bon de commande d'Oenolia. Match. (**Le cavalier donne un dernier échec**)
 
-La Section de Recherches fait vérifier : granulométrie fine. Exactement ce que l'acheteur avait demandé chez Oenolia.
+La chaîne est complète. Ce que Noor avait déduit seule dans un cahier — la dose, la granulométrie, la fenêtre de 10 minutes, le profil de l'héritier — est maintenant confirmé par des preuves matérielles indépendantes. La théorie est devenue un dossier.
 
-**Coup 41 — Rc2#.** Hélène Morel est placée en garde à vue. Les enquêteurs présentent les éléments : le bon de commande, l'appel à Oenolia après la visite de Noor, le trou dans l'alibi, l'empreinte sur le sac, le prêt qu'elle connaissait, la granulométrie fine, l'appel de 21h35 depuis chez Mme Cottard.
+**Coup 41 — Rc2#.** Hélène Morel est placée en garde à vue. 48 heures, 4 auditions dans les locaux de la SR de Lyon. Les enquêteurs déroulent les preuves une par une : l'appel paniqué à Oenolia, le bon de commande, l'empreinte sur le sac, l'appel de 21h35, le trou dans l'alibi, la granulométrie fine, le prêt qu'elle connaissait.
 
-Hélène regarde ses mains. Des mains de vigneronne. Elle dit : "Il allait vendre la terre de mon père."
+À la quatrième audition, on lui pose la question : "Qui savait que Pierre-André descendait au chai tous les soirs à 22h ?" Hélène : "Tout le monde." Enquêteurs : "Qui savait que la granulométrie fine se dissout en 10 minutes ?" Silence.
+
+Hélène regarde ses mains. Des mains de vigneronne — abîmées, sèches, les ongles courts, une coupure au pouce droit. Les mêmes mains qui ont versé 3,3 kg de métabisulfite granulométrie fine dans la cuve n°7 à 21h50 le 13 octobre.
+
+Elle dit, à voix basse : "Il allait vendre la terre de mon père."
 
 ---
 
@@ -104,27 +138,29 @@ Hélène Morel est mise en examen pour assassinat (préméditation caractérisé
 
 Le capitaine Vergnaud demande sa mutation. Pas par sanction — par gêne.
 
-Noor Belkadi reçoit un blâme pour avoir interrogé un témoin hors procédure. Le blâme est inscrit dans son dossier. En marge du blâme, le colonel de groupement a écrit au crayon : "À surveiller — potentiel SR."
+Noor Belkadi reçoit un blâme pour avoir interrogé un témoin hors procédure. Le blâme est inscrit dans son dossier. En marge du bordereau de transmission, le colonel Fayard, commandant le groupement du Rhône, a écrit au crayon gris : "À surveiller — potentiel SR."
 
-Le Domaine Morel est mis en gérance provisoire. Bastien Roux, le maître de chai, assure les vinifications. La cuve n°7 est vidée, nettoyée, et remise en service. Le vin qu'elle contenait — 50 hectolitres de Morgon 2024, gamay noir à jus blanc — est détruit.
+Noor ne sait pas que cette note existe. Elle ne le saura pas avant 2027, quand elle recevra un appel du commandant de la SR lui proposant un entretien.
+
+Le Domaine Morel est mis en gérance provisoire. Bastien Roux assure les vinifications. La cuve n°7 est vidée, nettoyée, et remise en service. Le vin qu'elle contenait — 50 hectolitres de Morgon 2024, gamay noir à jus blanc — est détruit.
 
 ---
 
 ## Thèmes
 
-- **La pièce atypique résout l'affaire** — Noor n'est ni commissaire, ni profileuse, ni génie. C'est une gendarme qui connaît le vin. C'est sa bizarrerie (chimie + gendarmerie) qui crée la connexion que personne d'autre ne voit.
-- **Le sacrifice ouvre la vérité** — Noor perd son mandat en confrontant Hélène. Mais c'est ce sacrifice qui provoque la cascade (l'appel paniqué d'Hélène à Oenolia, l'effondrement de l'alibi).
-- **L'accumulation ne protège pas** — Hélène accumule les protections (alibi, respectabilité, faux suspects). Plus elle accumule, plus elle est exposée.
-- **Le plus petit indice est le plus dangereux** — Le SO2. Un détail chimique que n'importe quel gendarme aurait ignoré. C'est le pion qui traverse tout l'échiquier.
+- **La déduction avant le témoignage** — Noor résout l'affaire avec un cahier, un stylo, et de la chimie. Les témoins ne font que confirmer ce qu'elle a déjà compris. Les preuves matérielles viennent APRÈS la théorie, pas avant.
+- **La pièce atypique résout l'affaire** — Noor n'est ni commissaire, ni profileuse, ni génie. C'est une gendarme qui connaît le vin. Sa bizarrerie (chimie + gendarmerie) crée la connexion que personne d'autre ne voit.
+- **Le sacrifice ouvre la vérité** — Noor perd son mandat en confrontant Hélène. Mais c'est ce sacrifice qui provoque la panique d'Hélène — et la panique révèle le fournisseur, le bon de commande, la granulométrie.
+- **Le silence comme preuve** — Hélène ne montre aucune surprise quand Noor lui parle de SO2, de 3,3 kg, de granulométrie fine. Son absence de réaction est la confirmation la plus forte de la théorie.
 - **La terre** — Pierre-André allait vendre la terre. Hélène a tué pour la terre. Le vin dans la cuve a été détruit. Personne ne gagne.
 
 ---
 
 ## Test de cohérence
 
-- [x] L'histoire tient sans connaître les échecs ? → C'est un polar rural. Aucune référence aux échecs.
-- [x] Techniquement crédible ? → SO2 et vinification sont réalistes, les doses sont cohérentes, la procédure de gendarmerie est fidèle.
-- [x] Motivations crédibles ? → Hélène : la terre de son père. Pierre-André : les dettes. Noor : l'instinct. Vergnaud : la tranquillité.
-- [x] Retournements earned ? → Le SO2 est posé dès l'Acte I. La confrontation de l'Acte III est préparée par les découvertes de l'Acte II. Chaque rebond de la cascade est causé par le rebond précédent.
-- [x] Enquêteur atypique ? → Noor est une gendarme-oenologue. Sa formation inachevée est sa force. Elle voit le monde en molécules, pas en mobiles.
-- [x] Pas de deus ex machina ? → Chaque preuve est trouvée par une démarche logique (prélèvement → analyse → fournisseur → bon de commande → empreinte).
+- [x] L'histoire tient sans connaître les échecs ? → C'est un polar rural porté par la déduction chimique. Aucune référence aux échecs.
+- [x] Techniquement crédible ? → SO2 et vinification sont réalistes, les doses sont calculées, la procédure de gendarmerie est fidèle.
+- [x] Motivations crédibles ? → Hélène : la terre de son père. Pierre-André : les dettes. Noor : l'instinct + la rigueur. Vergnaud : la tranquillité.
+- [x] Retournements earned ? → Le SO2 est posé dès l'Acte I. Les déductions de l'Acte II sont vérifiables. La confrontation de l'Acte III est la conséquence logique d'un raisonnement complet.
+- [x] Enquêteur atypique ? → Noor pense en chimiste, pas en gendarme. Elle profile le tueur par la dose et la granulométrie avant de chercher un nom.
+- [x] Pas de deus ex machina ? → Chaque conclusion est déduite avant d'être confirmée. Noor PRÉDIT la granulométrie fine, le fournisseur la confirme ENSUITE. L'alibi craque parce que Noor vérifie le replay du JT elle-même.

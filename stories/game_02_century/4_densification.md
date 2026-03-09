@@ -147,18 +147,22 @@ Parce que Loiseau a convaincu Pierre-André de recommencer — en plus gros. Deu
 
 ---
 
-### Zone 8 : Mme Cottard — l'alibi qui craque
+### Zone 8 : Mme Cottard — l'alibi que Noor fait craquer
 
 **Citation :** "la voisine, Mme Cottard, avait dit qu'Hélène était chez elle de 20h à 23h"
-**Catégorie :** Personnage carton
-**Problème :** Mme Cottard est juste "la voisine". Pourquoi elle ment ? Par amitié ? Par peur ?
+**Catégorie :** Personnage carton + Déduction de Noor
+**Problème :** Mme Cottard est juste "la voisine". Pourquoi elle ment ? Et comment Noor détecte le mensonge ?
 
 **Enrichissement :**
 Gisèle Cottard, 72 ans, veuve, ancienne institutrice à l'école primaire de Villié-Morgon (retraitée depuis 2015). Elle habite la maison mitoyenne du domaine — une petite maison en pierre dorée avec un jardin qui borde la parcelle Les Charmes. Gisèle connaît Hélène depuis 40 ans. C'est elle qui a eu Hélène en classe de CM2. C'est elle qui a vu Hélène se marier, avoir Lucas, travailler au domaine sans jamais être reconnue.
 
 Gisèle ne ment pas pour protéger une meurtrière. Gisèle ment parce qu'elle est persuadée qu'Hélène est innocente et qu'un alibi solide évitera à son ancienne élève le traumatisme d'un interrogatoire. Quand les gendarmes lui demandent si Hélène était chez elle le soir du 13, Gisèle "arrondit" : Hélène est bien venue (c'est vrai), elles ont regardé la télé (c'est vrai), et Hélène est repartie... vers 23h (c'est faux — c'était 21h30).
 
-Le détail du journal de 20h est ce qui la trahit. Gisèle dit avoir regardé un reportage sur les incendies en Grèce avec Hélène. Mais le 13 octobre, le JT de France 2 n'a pas diffusé de sujet sur les incendies en Grèce (les enquêteurs vérifient — c'est devenu facile depuis que les JT sont en replay sur france.tv). Le sujet sur la Grèce, c'était le 11 octobre. Gisèle confond les soirs. Quand on la confronte, elle ne s'effondre pas — elle rougit, elle bafouille, et elle dit : "Je suis désolée, à mon âge, les jours se mélangent." Puis, après un silence : "Hélène est partie vers 21h30. Je pensais que ça n'avait pas d'importance."
+**C'est Noor qui détecte le mensonge.** Dessaisie, incapable de dormir, Noor relit les PV d'audition sur sa copie du dossier. Elle lit la déclaration de Cottard : "On a regardé le journal ensemble, il y avait un sujet sur les incendies en Grèce." Noor ouvre france.tv sur son téléphone, dans son lit, à 1h du matin. Elle navigue jusqu'au replay du JT de France 2 du 13 octobre. Elle le regarde en entier — 38 minutes. Pas de sujet sur les incendies en Grèce. Elle vérifie le 12. Non plus. Le 11 octobre : oui, 4 minutes 30 sur les feux dans le Péloponnèse. Cottard confond les soirs.
+
+Ce n'est pas un indice que quelqu'un lui a donné. C'est une vérification maniaque, faite à 1h du matin, par quelqu'un qui ne lâche rien. La méthode de Noor : elle ne croit pas les témoignages, elle les VÉRIFIE contre des faits vérifiables. Le JT est un fait — il a été diffusé, il est en replay, il est horodaté.
+
+Quand Moreau reconvoque Cottard et la confronte à l'incohérence, Cottard ne s'effondre pas — elle rougit, bafouille, et dit : "Je suis désolée, à mon âge, les jours se mélangent." Puis, après un silence : "Hélène est partie vers 21h30. Je pensais que ça n'avait pas d'importance."
 
 Gisèle ne sera pas poursuivie pour faux témoignage — le procureur considérera que la confusion était en partie sincère et que la poursuite d'une femme de 72 ans n'est pas dans l'intérêt public. Mais Gisèle ne reparlera plus à Hélène.
 
@@ -193,20 +197,26 @@ Me Blanc pose sa main sur le bras d'Hélène. L'enregistreur tourne.
 
 ---
 
-### Zone 10 : La note de Noor sur la granulométrie — elle n'est plus sur l'affaire
+### Zone 10 : Les deux rencontres au distributeur de café — le canal officieux de Noor
 
-**Citation :** "Noor, qui n'est plus sur l'affaire mais qui n'a pas arrêté de réfléchir, transmet une note à la Section de Recherches"
+**Citation :** "Noor transmet une note à Moreau — toujours au distributeur de café"
 **Catégorie :** Mécanisme non expliqué
-**Problème :** Noor est dessaisie. Comment transmet-elle une note à la SR ? Par quel canal ?
+**Problème :** Noor est dessaisie. Comment transmet-elle ses déductions à la SR ? Et pourquoi Moreau l'écoute ?
 
 **Enrichissement :**
-Noor n'envoie pas une note officielle — elle n'a pas le droit. Elle est dessaisie et sous blâme. Ce qu'elle fait : elle croise l'adjudant-chef Moreau (SR Lyon) au distributeur de café de la compagnie de Villefranche, le 3 novembre, quatre jours avant l'interpellation d'Hélène. Moreau est venu à Villefranche pour récupérer une copie du rapport de gendarmerie initial. Noor le reconnaît — elle l'a vu à une formation sur les scènes de crime chimiques à l'IRCGN en 2023.
+Noor n'envoie pas de notes officielles — elle n'a pas le droit. Elle est dessaisie et sous blâme. Mais elle croise l'adjudant-chef Moreau (SR Lyon) deux fois au distributeur de café de la compagnie de Villefranche.
 
-Elle lui dit, en prenant son gobelet : "Adjudant-chef, le métabisulfite qui a été acheté chez Oenolia, c'était de la granulométrie fine. La fine se dissout en 10 minutes. Si vous retrouvez le sac et que le labo confirme la granulométrie dans la cuve, vous avez votre fenêtre de mise en place. Quelqu'un qui savait exactement quand la victime allait descendre." Moreau la regarde, note dans un carnet, et dit : "Vous êtes la chimiste ?" Noor : "Apparemment." Moreau hoche la tête et part.
+**Première rencontre** (28 octobre, 10h). Moreau est venu à Villefranche pour récupérer une copie du rapport de gendarmerie initial. Noor le reconnaît — elle l'a vu à une formation sur les scènes de crime chimiques à l'IRCGN en 2023. C'est là qu'elle lui glisse l'incohérence du JT de Cottard. Moreau fronce les sourcils, note dans un carnet. Il ne dit rien. Mais il fait reconvoquer Cottard.
 
-C'est tout. Pas une note. Pas un mail. 45 secondes devant un distributeur de café. Mais Moreau fait vérifier. Et le résultat est là.
+**Deuxième rencontre** (3 novembre, 14h). Moreau revient à Villefranche pour le dossier d'hypothèque. Noor l'intercepte au distributeur. Cette fois, elle a préparé son raisonnement : "Adjudant-chef, faites analyser la granulométrie du métabisulfite résiduel dans la cuve. Le fournisseur dit que l'acheteur a demandé de la fine. La fine se dissout en 10 minutes. Si la granulométrie dans la cuve CORRESPOND à celle du bon de commande, vous avez le lien matériel entre l'achat et le crime. Et vous avez la fenêtre : 10 minutes. Quelqu'un qui savait EXACTEMENT quand la victime allait descendre."
 
-Plus tard, dans son rapport final, Moreau mentionnera : "L'hypothèse relative à la granulométrie du métabisulfite a été suggérée par l'adjudante Belkadi (BR Villefranche), dont les constatations initiales sur la scène ont été déterminantes pour la réorientation de l'enquête." Une ligne dans un rapport de 47 pages. Mais c'est cette ligne que le colonel de groupement lira en marge du blâme.
+Moreau la regarde. Il a déjà vérifié Cottard sur son conseil. La piste était bonne. Il note dans son carnet et dit : "Vous êtes la chimiste ?" Noor : "Apparemment." Moreau hoche la tête et part.
+
+45 secondes à chaque fois. Pas une note. Pas un mail. Mais Moreau fait vérifier les deux fois. Et les deux fois, Noor avait raison.
+
+Pourquoi Moreau l'écoute ? Parce qu'il a lu le rapport initial et qu'il a vu que c'est Noor — pas Vergnaud, pas le légiste, pas le procureur — qui a relevé le SO2 dans la cuve. Sans elle, l'affaire était classée en accident. Moreau reconnaît le flair. Et dans la gendarmerie, le flair se respecte, même quand il vient d'une adjudante sous blâme.
+
+Plus tard, dans son rapport final de 47 pages, Moreau écrira : "L'hypothèse relative à la granulométrie du métabisulfite et l'identification de l'incohérence dans le témoignage de Mme Cottard ont été suggérées par l'adjudante Belkadi (BR Villefranche), dont les constatations initiales sur la scène et le raisonnement analytique ont été déterminants pour la réorientation de l'enquête." Deux lignes. Mais c'est ces deux lignes que le colonel Fayard lira en marge du blâme.
 
 ---
 

@@ -90,14 +90,18 @@ Son statut dans la communauté. 35 ans de vie dans le village. Tout le monde la 
 
 | Dynamique | Échecs | Histoire |
 |-----------|--------|----------|
-| Bg4 — premier indice | Le fou cloue le cavalier | Noor relève le taux de SO2 anormal dans la cuve |
-| Na4! — l'enquête démarre | Le cavalier part en mission | Noor commence à enquêter hors mandat, suit la piste chimique |
-| Nxc3, Nxe4 — élimination | Le cavalier élimine des pièces | Noor élimine les suspects (Bastien a un alibi, Lucas était à Lyon) |
-| Bxe7 — fausse piste | Le fou blanc prend du matériel | Le capitaine se concentre sur Lucas (l'assurance-vie) |
-| Qb6 — Noor résiste | La dame noire contre-attaque | Noor insiste : ce n'est pas Lucas, c'est le SO2 qu'il faut suivre |
-| Be6!! — la confrontation | Le fou offre la dame | Noor confronte Hélène avec le bon de commande du métabisulfite |
-| Bxb6 — suspendue | La dame est capturée | Le capitaine dessaisit Noor — elle a agi seule, hors procédure |
-| Ne2+/Nxd4+/Ne2+/Nc3+ — cascade | Le cavalier danse, échecs à la découverte | Chaque indice que Noor a planté avant sa suspension produit un nouveau rebondissement |
+| Bg4 — premier indice | Le fou cloue le cavalier | Noor sent le SO2, déduit le choix délibéré du tueur (SO2 vs CO2) |
+| Na4! — l'enquête démarre | Le cavalier part en mission | Noor s'assoit avec un cahier et commence à calculer — dose, granulométrie, fenêtre |
+| Nxc3 — déduction dose | Le cavalier prend | Noor calcule 3,3 kg de K2S2O5 → le tueur sait doser un sulfitage |
+| Nxe4 — déduction timing | Le cavalier prend encore | Noor déduit la fenêtre de 10 min (granulométrie fine) → le tueur était sur place |
+| Nf5 — profil du tueur | Le cavalier atteint l'avant-poste | Noor déduit que le maquillage en accident = héritier (art. 726 code civil) |
+| Bxe7 — fausse piste | Le fou blanc prend du matériel | Vergnaud se concentre sur Lucas (assurance-vie) et Bastien (dispute) |
+| Be6!! — la confrontation | Le fou offre la dame | Noor confronte Hélène avec ses DÉDUCTIONS pures (SO2, dose, granulométrie) — pas de preuve matérielle |
+| Bxb6 — suspendue | La dame est capturée | Vergnaud dessaisit Noor — elle a agi seule, hors procédure |
+| Ne2+ — panique d'Hélène | Échec à la découverte | L'appel paniqué d'Hélène à Oenolia RÉVÈLE son propre fournisseur |
+| Nxd4+ — granulométrie confirmée | Échec à la découverte | Le fournisseur confirme "granulométrie fine" — Noor l'avait déduit avant |
+| Ne2+ — alibi fissuré | Échec à la découverte | Noor vérifie le replay du JT elle-même, détecte le mensonge de Cottard |
+| Nc3+ — l'appel de 21h35 | Échec à la découverte | Noor déduit que l'appel depuis chez Cottard = signal de départ du piège |
 | axb6 — la thèse s'effondre | Le pion capture le fou | L'accident de CO2 est officiellement requalifié en homicide |
-| Coups 24-41 — la traque | Pièces mineures vs roi | Les preuves convergent, Hélène fuit de version en version |
-| Rc2# — mat | Tour + cavalier | La preuve finale (relevé téléphonique + empreintes) + l'intuition de Noor = confession |
+| Coups 24-41 — la traque | Pièces mineures vs roi | Les preuves matérielles confirment une par une les déductions de Noor |
+| Rc2# — mat | Tour + cavalier | La chaîne déductive complète + preuves matérielles = confession |
